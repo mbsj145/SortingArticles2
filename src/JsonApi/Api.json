@@ -1,48 +1,48 @@
 [
     {
         "id":"1",
-        "title": "a title 1",
-        "upvotes": "200",
+        "title": "title 1",
+        "upvotes": "201",
         "date": "2020-11-08"
     },
     {   
         "id":"2",
-        "title": "b title 2",
+        "title": "title 2",
         "upvotes": "20",
         "date": "2020-11-07"
     },
     {
         "id":"3",
-        "title": "b title 3",
+        "title": "title 3",
         "upvotes": "10",
         "date": "2020-11-06"
     },
     {
         "id":"4",
-        "title": "h title 4",
-        "upvotes": "200",
+        "title": "title 4",
+        "upvotes": "208",
         "date": "2020-11-05"
     },
     {   "id":"5",
-        "title": "l title 5",
+        "title": "title 5",
         "upvotes": "20",
         "date": "2020-11-04"
     },
     {
         "id":"6",
-        "title": "g title 6",
-        "upvotes": "200",
+        "title": "title 6",
+        "upvotes": "203",
         "date": "2020-11-03"
     },
     {
         "id":"7",
-        "title": "z title 7",
+        "title": "title 7",
         "upvotes": "202",
         "date": "2020-11-02"
     },
     {   "id":"8",
-        "title": "q title 8",
-        "upvotes": "100",
+        "title": "title 8",
+        "upvotes": "104",
         "date": "2020-11-01"
     },
     {
@@ -94,7 +94,7 @@
     {
         "id":"17",
         "title": "title 17",
-        "upvotes": "100",
+        "upvotes": "106",
         "date": "2020-10-22"
     },
     {   "id":"18",
