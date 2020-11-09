@@ -7,7 +7,7 @@ export default function Tables(props){
         <>
      
        <Button variant="outline-secondary styleDiv" onClick={()=>props.sortBy('upvotes')}>order by upvote</Button>
-       <Button variant="outline-secondary"  onClick={()=>props.sortDate('date')}>orer by date</Button>
+       <Button variant="outline-secondary"  onClick={()=>props.sortDate('date')}>order by date</Button>
 
         <Table striped bordered hover size="sm">
         <thead>
